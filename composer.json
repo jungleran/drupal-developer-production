@@ -1,0 +1,13 @@
+{
+    "name": "jungleran/drupal-developer-production",
+    "type": "metapackage",
+    "description": "Packages for Drupal development applicable in production environment",
+    "keywords": ["Drupal"],
+    "require": {
+        "drupal/console": "^1.8",
+        "drush/drush": "^9.5",
+        "drupal/devel": "^2.0",
+        "drupal/devel_entity_updates": "^1.0",
+        "drupal/masquerade": "^2.0@beta"
+    }
+}
